@@ -33,7 +33,7 @@
 >
 > Z.ai’s latest flagship model, delivering comprehensive advancements in software engineering and agent capabilities.
 
-> [card] [GLM-5.3-FLASH](../vlm/glm-5.3-flash.md)
+> [card] [GLM-5.3-Flash](../vlm/glm-5.3-flash.md)
 >
 > Multimodal Coding model, specializing in visual programming.
 
