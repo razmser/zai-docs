@@ -2,7 +2,7 @@
 
 Markdown mirror of [Z.ai's documentation](https://docs.z.ai/guides/overview/quick-start).
 
-Contains **68 pages**, discovered from the [page index](https://docs.z.ai/llms.txt) and [supplementary index](https://docs.z.ai/sitemap.xml).
+Contains **69 pages**, discovered from the [page index](https://docs.z.ai/llms.txt) and [supplementary index](https://docs.z.ai/sitemap.xml).
 
 Links to mirrored pages point to local files; external links and images remain online. Code examples and OpenAPI blocks are preserved.
 
@@ -64,6 +64,7 @@ Generated files are replaced by the next successful sync. Original content belon
 - [GLM-Image](guides/image/glm-image.md)
 - [GLM-5.2](guides/llm/glm-5.2.md)
 - [GLM-5.3](guides/llm/glm-5.3.md)
+- [GLM-5.4](guides/llm/glm-5.4.md)
 - [Core Parameters](guides/overview/concept-param.md)
 - [Migrate to GLM-5.3](guides/overview/migrate-to-glm-new.md)
 - [Overview](guides/overview/overview.md)
